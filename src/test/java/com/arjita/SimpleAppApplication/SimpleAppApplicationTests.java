@@ -1,4 +1,4 @@
-package com.arjita.FoodAppApplication;
+package com.arjita.SimpleAppApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

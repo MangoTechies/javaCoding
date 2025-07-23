@@ -1,4 +1,4 @@
-package com.arjita.FoodAppApplication.Controller;
+package com.arjita.SimpleAppApplication.Controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
