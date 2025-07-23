@@ -1,4 +1,4 @@
-package com.arjita.FoodAppApplication.Controller;
+package com.arjita.SimpleAppApplication.Controller;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {

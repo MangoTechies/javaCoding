@@ -1,4 +1,4 @@
-package com.arjita.FoodAppApplication.Controller.response;
+package com.arjita.SimpleAppApplication.Controller.response;
 
 import lombok.*;
 
@@ -10,7 +10,7 @@ import lombok.*;
 @ToString
 @EqualsAndHashCode
 public class Employee {
-    private Long id;
+    private int id;
     private String name;
     private String department;
 }
