@@ -1,13 +1,13 @@
 package com.arjita.SimpleAppApplication.infra;
 
 import com.arjita.SimpleAppApplication.Controller.response.Employee;
-import com.arjita.SimpleAppApplication.Domain.EmployeeDetails;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
+@Repository
 public class EmployeeRepository {
 
     private static final String JDBC_URL = "jdbc:h2:mem:testdb";
